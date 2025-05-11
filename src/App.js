@@ -4,7 +4,7 @@ import Select from 'react-select';
 import './App.css';
 
 // --- Configuration ---
-const BACKEND_URL = 'http://localhost:5001/bfhl'; // Or your deployed backend URL
+const BACKEND_URL = 'http://127.0.0.1:5001/bfhl'; // Or your deployed backend URL
 const YOUR_ROLL_NUMBER = "0827AL221142"; // e.g., ABCD123 (Same as backend)
 
 function App() {
